@@ -27,6 +27,7 @@
   In this section we will be able to observe code examples, how the stock trends are in the mentioned years and also the time stamp procedures.
 
 1. Full Code Example :
+![Code_Eg_p1]
 
 
   
